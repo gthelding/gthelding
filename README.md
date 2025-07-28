@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @gthelding
-- 👀 I’m interested in Linux (Arch, btw) coding, home automation (particularly with ESP32 devices), and homelabbing.
+- 👀 I’m interested in Linux (Arch, btw), coding, home automation (particularly with ESP32 devices), and homelabbing.
 - 🌱 My goals for 2025:
-  * conritbute code to an open source project
-  * Blog more
+  - [x] conritbute code to an open source project ([Omarchy](https://github.com/basecamp/omarchy)!)
+  - [ ] [Blog](https://www.helding.net) more
+  - [ ] Learn [Ruby on Rails](https://rubyonrails.org) web development platform
 - 📫 How to reach me: greg@helding.net
 <!---
 gthelding/gthelding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
