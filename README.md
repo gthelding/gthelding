@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gthelding
-- 👀 I’m interested in running local AI LLMs, home automation, and homelabbing.
+- 👀 I’m interested in Linux (Arch, btw) coding, home automation (particularly with ESP32 devices), and homelabbing.
 - 🌱 My goals for 2025:
   * conritbute code to an open source project
   * Blog more
