@@ -5,6 +5,7 @@
   - [ ] [Blog](https://www.helding.net) more
   - [ ] Learn [Ruby on Rails](https://rubyonrails.org) web development platform
 - 📫 How to reach me: greg@helding.net
+- 📡 Ham Radio Operater W9GTH
 <!---
 gthelding/gthelding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
