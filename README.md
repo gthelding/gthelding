@@ -3,7 +3,6 @@
 - 🌱 My goals for 2025:
   - [x] conritbute code to an open source project ( [A cool train controller](https://github.com/LillyWho/esp32-bluepad-railBT) and [Omarchy](https://github.com/basecamp/omarchy) - so far!)
   - [ ] [Blog](https://www.helding.net) more
-  - [ ] Learn [Ruby on Rails](https://rubyonrails.org) web development platform
 - 📫 How to reach me: greg@helding.net
 - 📡 Ham Radio Operater W9GTH
 <!---
