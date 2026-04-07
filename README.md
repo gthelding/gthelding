@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gthelding
-- 👀 I’m interested in Linux (Arch, btw), coding, home automation (particularly with ESP32 devices), and homelabbing.
-- 🌱 My goals for 2025:
-  - [x] conritbute code to an open source project ( [A cool train controller](https://github.com/LillyWho/esp32-bluepad-railBT) and [Omarchy](https://github.com/basecamp/omarchy) - so far!)
+- 👀 I’m interested in Linux (NixOS on the desktop, Debian on Servers), coding, home automation (particularly with ESP32 devices), and homelabbing.
+- 🌱 My goals for 2026:
   - [ ] [Blog](https://www.helding.net) more
 - 📫 How to reach me: greg@helding.net
 - 📡 Ham Radio Operater W9GTH
