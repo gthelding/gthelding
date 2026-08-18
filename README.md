@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @gthelding
-- 👀 I’m interested in Linux (NixOS on the desktop, Debian on Servers), coding, home automation (particularly with ESP32 devices), and homelabbing.
-- 🌱 My goals for 2026:
-  - [ ] [Blog](https://www.helding.net) more
-- 📫 How to reach me: greg@helding.net
-- 📡 Ham Radio Operater W9GTH
-## NixOS Config / Dotfiles
-My flake is self-hosted at [truesilver.dev/greg/nixos-config](https://truesilver.dev/greg/nixos-config)
-<!---
-gthelding/gthelding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Greg Helding
+
+IP lawyer by day. Homelab, ham radio, and Linux the rest of the time.
+
+I spent the first part of my career as a systems and network engineer, then went to law school. Since 2014 I've practiced patent law in the electrical and computer arts. The two careers share a desk more than you might think.
+
+On here you'll find small tools, themes, and the occasional upstream contribution. Desktop is NixOS; servers are Debian. Callsign [W9GTH](https://www.qrz.com/db/W9GTH).
+
+- Blog: [helding.net](https://www.helding.net)
+- Email: greg@helding.net
+- NixOS flake: [truesilver.dev/greg/nixos-config](https://truesilver.dev/greg/nixos-config)
