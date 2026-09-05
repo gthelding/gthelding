@@ -8,4 +8,4 @@ On here you'll find small tools, themes, and the occasional upstream contributio
 
 - Blog: [helding.net](https://www.helding.net)
 - Email: greg@helding.net
-- NixOS flake: [forgejo.gth.sh/greg/nixos-config](https://forgejo.gth.sh/greg/nixos-config)
+- NixOS flake is on: [truesilver.dev/greg/nixos-config](https://truesilver.dev/greg/nixos-config)
