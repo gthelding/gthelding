@@ -1,4 +1,4 @@
- ![Greg Helding — Lawyer, Engineer, Technologist, Tinkerer. Things I build, things I learn,
+![Greg Helding — Lawyer, Engineer, Technologist, Tinkerer. Things I build, things I learn,
   and things I find interesting.](assets/header.png)
 IP lawyer by day. Homelab, ham radio, and Linux the rest of the time.
 
